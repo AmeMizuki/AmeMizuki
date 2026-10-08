@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: AmeMizuki
           filename: metrics.svg
           template: classic
