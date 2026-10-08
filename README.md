@@ -50,8 +50,3 @@ const developer = {
     <td align="center"><img alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmeMizuki&theme=dracula&title_color=ff79c6&text_color=f8f8f2&icon_color=ff79c6&chart_color=ff79c6" /></td>
   </tr>
 </table>
-
-
-![Metrics](./metrics.svg)
-
-***
